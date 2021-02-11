@@ -1,2 +1,2 @@
 echo PORT $PORT
-web: sh setup.sh && streamlit run --server.port $PORT Task_FYP_02.py
+web: sh setup.sh && streamlit run --server.port $PORT Smart_Health_Consultant_Tree.py
